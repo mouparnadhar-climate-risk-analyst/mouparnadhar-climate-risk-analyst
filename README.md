@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="<img width="1024" height="1536" alt="[Image" src="https://github.com/user-attachments/assets/4d7e3cb3-2b55-4694-bc80-e578f5ca402d](https://github.com/user-attachments/assets/4d7e3cb3-2b55-4694-bc80-e578f5ca402d)" />
+  <img src="<img width="1024" height="1536" alt="[Image" src="https://github.com/user-attachments/assets/4d7e3cb3-2b55-4694-bc80-e578f5ca402d]" />
 " width="160" height="160" style="border-radius: 50%; object-fit: cover;" alt="Mouparna Dhar"/>
   
   <h1>Hi there, I'm Mouparna Dhar 👋</h1>
