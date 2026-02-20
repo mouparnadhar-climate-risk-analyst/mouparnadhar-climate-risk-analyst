@@ -61,6 +61,7 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouparnadhar-climate-risk-analyst&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouparnadhar-climate-risk-analyst&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mouparnadhar-climate-risk-analyst&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=mouparnadhar-climate-risk-analyst&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
+
