@@ -48,13 +48,18 @@
 
 ### 📊 Portfolio Highlights
 
-| 🏙️ **The Palm Jumeirah: Stranded Asset Index 2050** | ☀️ **MBR Solar Park: Geospatial Optimization** |
+| 🏙️ **The Palm Jumeirah: Stranded Asset Index** | ☀️ **MBR Solar Park: Geospatial Optimization** |
 | :--- | :--- |
-| **Asset-Level Climate Stress-Test (AED 46.2B Portfolio)**<br><br>• Engineered a 2030-2100+ inundation model using Copernicus GLO-30 DEM and IPCC AR6 high-emission scenarios.<br>• Identified a critical topological threshold post-2050 exposing AED 4.11B in assets to extreme storm surge.<br>• Translated spatial vulnerability into Climate-Adjusted Loan-to-Value (LTV) ratios for banking risk management. | **Multi-Criteria Decision Analysis (MCDA) for Expansion**<br><br>• Designed a spatial framework weighing Solar Yield, Dust Risk (Shamal Winds), Grid Logistics, and Land Cost.<br>• Utilised NASA MODIS & Copernicus ERA5 data to benchmark OPEX cleaning costs vs CAPEX grid connection costs.<br>• Identified an optimised 5km² "Goldilocks Zone" delivering a projected 25-Year NPV of AED 119.7 Million. |
+| **Asset-Level Climate Stress-Test (AED 46.2B Portfolio)**<br><br>• Engineered a 2030-2100+ inundation model using Copernicus DEM and IPCC AR6 high-emission scenarios.<br>• Identified a critical topological threshold post-2050 exposing AED 4.11B in assets.<br>• Translated spatial vulnerability into Climate-Adjusted Loan-to-Value (LTV) ratios. | **Multi-Criteria Decision Analysis (MCDA)**<br><br>• Designed a spatial framework weighing Solar Yield, Dust Risk (Shamal Winds), Grid Logistics, and Land Cost.<br>• Utilised NASA MODIS & Copernicus ERA5 data to benchmark OPEX vs CAPEX.<br>• Identified an optimised 5km² "Goldilocks Zone" delivering a projected NPV of AED 119.7M. |
 
-| 🌍 **Public Governance & Infrastructure (Puruliya)** | 🌊 **Spatio-Temporal Resilience (Sundarbans)** |
-| :--- | :--- |
-| **Importance-Performance Analysis (IPA)**<br><br>• Developed a Weighted Improvement Index to prioritise administrative interventions across 8 regional blocks.<br>• Synthesised complex socio-economic datasets using Min-Max scaling for cross-scheme benchmarking. | **Climate Vulnerability & Land Degradation**<br><br>• Tracked 21-year Land Use Land Cover (LULC) trajectories and Land Surface Temperature (LST) anomalies.<br>• Modelled coastal erosion impacts on marginalised livelihoods to drive disaster resilience planning. |
+<br/>
+
+### 🌍 Public Governance & Infrastructure Analytics
+**Importance-Performance Analysis (IPA) of Rural Service Delivery (Puruliya)**
+*   **Metric Engineering:** Developed a **Weighted Improvement Index** to prioritize administrative interventions across 8 regional blocks.
+*   **Data Normalization:** Synthesised complex socio-economic and demographic datasets using Min-Max scaling for cross-scheme benchmarking.
+*   **Strategic Output:** Translated raw administrative data into visual heat maps and actionable policy recommendations for resource allocation.
+
 
 ---
 
